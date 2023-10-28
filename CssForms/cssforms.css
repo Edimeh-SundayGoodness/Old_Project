@@ -1,0 +1,53 @@
+input{
+    width: 21em;
+    height: 30px;
+    background-color: aqua;
+    border-radius: 0.5em;
+}
+form{
+    border: 2px solid grey;
+    width: 18em;
+    background-color: aliceblue;
+    border-radius: 0.5em;
+    height: 25em;
+    padding: 50px;
+    margin-left: 35%;
+    /* font-size: x-large; */
+}
+#head{
+    text-align: center;
+    margin-top: -1em;
+    font-size: x-large;
+}
+#country{
+    width: 21.5em;
+    height: 35px;
+    border-radius: 0.5em;
+}
+form:focus{
+    border: 3px solid rgb(180, 174, 174);
+}
+select{
+    width: 510px;
+    height: 40px;
+    background-color: aqua;
+}
+button{
+    width: 9em;
+    height: 35px;
+    background-color: green;
+    font-size: large;
+    margin-left: 3em;
+    border-radius: 0.5em;
+}
+button:hover{
+    color: white;
+}
+i{
+   position: absolute;
+   top: 368px;
+   left: 70px;
+}
+option:hover{
+    background-color: grey;
+}

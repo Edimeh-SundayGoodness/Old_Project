@@ -1,0 +1,30 @@
+#pp{
+    text-align: center;
+}
+/* #div{
+    margin-top: -120px;
+    margin-left: -250px;
+} */
+#img{
+    width: 150px;
+    height: 30px;
+    float: right
+}
+#table{
+    border: 1px solid black;
+    text-align: left;
+    width: 900PX;
+}
+body{
+    margin-left: 20%;
+}
+#divs{
+    margin-right: 350px;
+}
+#head{
+    margin-right: 19em;
+    text-align: center;
+}
+tr, th, td{
+    border: 2px solid black;
+}

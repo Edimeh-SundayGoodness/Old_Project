@@ -1,0 +1,150 @@
+#intro{
+    margin-left: 30px;
+    color: #a52a2a;
+    font-style: italic;
+}
+#power{
+    color: rgb(4, 4, 105);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 40px; 
+    margin-top: -50px; 
+}
+#body{
+    width: 600px;
+    height: 700px;
+    margin-left: 7%;
+}
+.image{
+    width: 60px;
+    height: 80px;
+    padding: 10px 10px;
+    padding-top: 30px;
+   border-radius: 1em;
+}
+#picture{
+    border: 3px solid blue;
+    float: right;
+    width: 250px;
+    height: 120px;
+    border-radius: 0.4em;
+    margin-right: 65px;
+    margin-top: -30px;
+    /* text-align: center; */
+    /* padding-left: 50px; */   
+}
+#and{
+    text-align: center;
+    color: black;
+}
+#fee{
+    border: 3px solid rgb(22, 22, 116);
+    position: absolute;
+    width: 250px;
+    height: 100px;
+    top: 26.5em;
+    left: 30.5em;
+    border-radius: 0.9em;
+    background-color: white;
+}
+#reg{
+    text-align: center;
+    margin-top: .25em;
+    font-weight: bolder;
+
+}
+#money{
+    margin-top: -.5em;
+    color: rgb(146, 26, 26);
+    font-size: 300%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#border{
+    border: 3px solid red;
+    float: right;
+    border-top: none;
+    border-color: red;
+    width: 350px;
+    height: 160px;
+    border-radius: 0.4em;
+    margin-left: 160px;
+    margin-top: -20px;
+    margin-right: 18px;
+}
+#editor{
+    color: rgb(40, 40, 150);
+    /* margin-left: 330px; */
+    margin-top: -1.2em;
+    margin-left: 15em;
+}
+#sept{
+    color: white;
+    background-color: brown;
+    /* border-radius: 10em; */
+    width: 130px;
+    height: 100px;
+    text-align: center;
+    padding-top: 1em; 
+    /* padding-left: 20px;
+    padding-right: 20px;
+    /* float: right; */
+    margin-left: 330px;
+    margin-top: -530px;
+    clip-path: circle(40%);
+    
+}
+#shape{
+    text-align: right;
+    color: rgb(161, 33, 33);
+    margin-right: 40px;
+    font: 10px;
+    margin-top: -20px;
+}
+#source{
+    width: 150px;
+    height: 90px;
+    float: right;
+    margin-top: -90px;
+    margin-right: 80px;
+}
+#image{
+    width: 390;
+    height: 350px;
+    float: right;
+    margin-top: -280px;
+}
+#number{
+    margin-left: 15px;
+    font-family: fantasy;
+}
+#div{
+    width: 750px;
+    border: 2px dotted black ;
+    margin-left: 250px;
+    font-size: x-large;
+    padding-left: 50px;
+    height: 830px;
+    background-color: rgb(233, 223, 223);
+}
+#get{
+    background-color: black;
+    color: white;
+    border-radius: 0.4em;
+    width: 270px;
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+#list{
+    color: brown;
+}
+#for{
+    background-color: white;
+    color: blue;
+    border-radius: 0.4em;
+    box-shadow: 1px 1px 1px 1px black;
+    width: 220px;
+    padding-left: 10px;
+    margin-left: 50px;
+    /* margin-top: -20px; */
+}

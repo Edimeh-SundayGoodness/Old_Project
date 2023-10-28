@@ -1,0 +1,135 @@
+#spine{
+    text-align: right;
+}
+#do{
+    color: white;
+    margin-top: -100px;
+}
+.child{
+    color: white;
+    /* margin-top: ; */
+}
+#div{
+    text-align: right;
+    margin-right: 50px;
+}
+#image{
+    width: 5em;
+    height: 5em;
+    margin-right: 20px;
+     ;
+}
+#body{
+    background-color: rgb(184, 34, 34);
+    width: 750px;
+    padding-left: 30px;
+    margin-left: 230px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    border: 2px solid black;
+}
+#hh{
+    color: brown;
+    background-color: white;
+    height: 40px;
+    width: 380px;
+    padding-left: 30px;
+    border-radius:  0.3em;
+    box-shadow: 1px 7px 8px rgb(31, 30, 30) ;
+    padding-bottom: 5px;
+}
+#good{
+    background-color: white;
+    width: 125px;
+    color: black;
+    border-radius: 2em;
+    height: 40px;
+    padding-top:10px ;
+    padding-left: 20px;
+    margin-left: 50px;
+    margin-top: -40px;
+}
+/* #class{
+    margin-left: 400px;
+} */
+#child{
+    color: white;
+    margin-left: 500px;
+    margin-top: -60px;
+}
+/* #pol{
+    background-color: white;
+    width: 70px;
+    color: black;
+    border-radius: 2em;
+    height: 45px;
+} */
+#source{
+    width: 350px;
+    height: 300px;
+    float: right;
+    margin-top: -320px;
+}
+#ul{
+    background-color: white;
+    width:450px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    /* margin-right: ; */
+    border-right: 3px solid black;
+    margin-left: -1.95em;
+    padding-left: -40px;
+    border: 2px solid rgb(184, 34, 34);
+}
+#design{
+    line-height: 1.5em;
+}
+#p{
+    background-color: white;
+    color: brown;
+    width: 135px;
+    padding-left: 10px;
+    border-radius: 0.3em;
+}
+#more{
+    float: right;
+    margin-top: -180px;
+    margin-right: 50px;
+}
+#pol{
+    background-color: black;
+    color: white;
+    width: 240px;
+    padding-left: 30px;
+    margin-left: 200px;
+    margin-top: -50px;
+}
+#smiley{
+    width: 70px;
+    height: 70px;
+    float: left;
+
+}
+#img{
+    width: 20px;
+    height: 20px;
+    float: right;
+    margin-right: 40px;
+    text-align: center;
+}
+#class{
+    text-align: center;
+}
+#imagge{
+    width: 350px;
+    height: 280px;
+    float: right;
+    margin-top: -280px;
+}
+.oip{
+    width: 20px;
+    height: 20px;
+    float: right;
+    margin-right: 20px;
+    text-align: center;
+}

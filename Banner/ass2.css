@@ -1,0 +1,42 @@
+#we{
+    text-align: center;
+    font-size: larger;
+}
+#online{
+    text-align: center;
+}
+#services{
+    text-align: center;
+    color: red;
+}
+#div{
+    background-color: #a11e1e;
+    height: 350px;
+    padding-top: 20px;
+    margin-top: 5.5em;
+}
+.jamb{
+    background-color: white;
+    color: black; 
+    width: 12em; 
+    text-align: center; 
+    margin-left: 5em; 
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+}
+#and{
+    text-align: center; 
+    color: white;
+}
+#body{
+    width: 400px; 
+    text-align: center;
+    height: 37em;
+    border: 2px solid black;
+}
+#result{  
+    background-color: white; 
+    color: black; 
+    width: 300px; 
+    /* margin-top: 50px; */
+}
